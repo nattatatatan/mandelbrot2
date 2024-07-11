@@ -1,0 +1,2 @@
+cargo:rustc-link-lib=OpenCL
+cargo:rustc-link-search=native=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\lib\x64

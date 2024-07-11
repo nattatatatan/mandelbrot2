@@ -1,0 +1,1 @@
+C:\Users\User\Desktop\Rust\mandelbrot2\target\debug\mandelbrot2.exe: C:\Users\User\Desktop\Rust\mandelbrot2\build.rs C:\Users\User\Desktop\Rust\mandelbrot2\src\complex.rs C:\Users\User\Desktop\Rust\mandelbrot2\src\main.rs C:\Users\User\Desktop\Rust\mandelbrot2\src\mandelbrot.rs
